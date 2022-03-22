@@ -1,2 +1,2 @@
 # WineFestivalSchedule
-HTML &amp; CSS
+HTML & CSS
